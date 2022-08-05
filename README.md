@@ -8,11 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevamGustavo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-   <img align="center" alt="Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="right" alt="pic" height="70" style="border-radius:20px;" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+   <img align="center" alt="Ts" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+   <img align="center" alt="React" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img align="center" alt="NestJs" height="30" width="40" src="https://img.shields.io/npm/v/@nestjs/core.svg">
 </div>
   
   ##
@@ -27,5 +26,3 @@
    
  
 </div>
-.
--->
