@@ -1,11 +1,4 @@
-### Hello there!  i'm Lucas, how is it going?!
-
-📚 Currently studying REACT on Alura.
-
-🌎 Learning French by myself, self improvement is always good, right?
-
-🧑‍💻 Looking foward to joining the labour market
-
+### Hello there!  i'm Gustavo, how is it going?!
 
 
 
