@@ -15,7 +15,7 @@
    <img align="center" alt="JavaScript" height="25"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
- 
+ ##
 <div align="center"> 
   
   <a href="https://www.linkedin.com/in/anaccbecker/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
