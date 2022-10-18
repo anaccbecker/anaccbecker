@@ -2,11 +2,9 @@
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/anaccbecker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaccbecker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <br>
-   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaccbecker&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <br>
