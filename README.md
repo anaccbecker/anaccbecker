@@ -1,13 +1,5 @@
 <!-- Site para pegar os badges -->
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/anaccbecker">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaccbecker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaccbecker&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- <br>
 <div style="display: inline_block" align="center"><br>
    <img align="center" alt="R" height="25"  src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
    <img align="center" alt="Python" height="25"  src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
